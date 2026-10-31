@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\BTTH4\BTTH4\obj\Debug\net10.0-windows\QuanLySinhVienWF.View.FrmQuanLySinhVien.resources
+C:\Users\PC\source\repos\BTTH4\BTTH4\obj\Debug\net10.0-windows\BTTH4.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\BTTH4\BTTH4\obj\Debug\net10.0-windows\BTTH4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BTTH4\BTTH4\obj\Debug\net10.0-windows\BTTH4.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BTTH4\BTTH4\obj\Debug\net10.0-windows\BTTH4.AssemblyInfo.cs
+C:\Users\PC\source\repos\BTTH4\BTTH4\obj\Debug\net10.0-windows\BTTH4.csproj.CoreCompileInputs.cache
